@@ -22,7 +22,9 @@ Welcome to the BMI (Body Mass Index) Calculator web application! This app allows
 
 ## Screenshots
 
-[Include screenshots here if desired]
+![Screenshot 1](Screenshots/screen1.png)
+
+![Screenshot 2](Screenshots/screen2.png)
 
 ## Contribution
 
