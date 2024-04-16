@@ -40,6 +40,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Repository Link
 
-[Provide the GitHub repository link here]
+[GitHub repository link here](https://github.com/yogeesh-s)
 
 Enjoy using the BMI Calculator web app! If you have any questions or feedback, feel free to reach out.
