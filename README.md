@@ -20,6 +20,15 @@ Welcome to the BMI (Body Mass Index) Calculator web application! This app allows
 - `style.css`: Defines the styles for the web page elements.
 - `script.js`: Contains the JavaScript code for BMI calculation and status determination.
 
+## Live Demo
+
+You can try out the BMI Calculator web app live [here](https://yogeesh-s.github.io/Simple-BMI-Calculator-Web-App-Calculate-Your-Body-Mass-Index-Online/). Simply click the link to access the app and start calculating your BMI instantly!
+
+Feel free to input different weight and height values to see how your BMI changes. If you have any feedback or suggestions, don't hesitate to let us know.
+
+Enjoy using the BMI Calculator web app!
+
+
 ## Screenshots
 
 ![Screenshot 1](Screenshots/screen1.png)
