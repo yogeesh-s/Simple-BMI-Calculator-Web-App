@@ -25,7 +25,7 @@ document.getElementById('calculate').addEventListener('click',() => {
             document.getElementById('row4').style.backgroundColor = 'rgba(255, 255, 255, 0.374)';
         }
     }else{
-        alert('Please Enter valid date and height')
+        alert('Please enter valid weight and height')
     }
     
 })
